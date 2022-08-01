@@ -1,5 +1,5 @@
-chilin n codin...
 
+Hie im Pranav Waghmare. Just Doing Random things to learn how to code.
 
 <!---
 IntenseScorpio/IntenseScorpio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
